@@ -116,7 +116,7 @@ void Geral(){
             rodadas++;
         }
         else{
-            cout << "\nReposta errada :(\n";
+            cout << "\nResposta errada :(\n";
             rodadas++;
         }
     }while(rodadas != 5);
@@ -179,7 +179,7 @@ void Filmes(){
             rodadas++;
         }
         else{
-            cout << "\nReposta errada :(\n";
+            cout << "\nResposta errada :(\n";
             rodadas++;
         }
     }while(rodadas != 5);
@@ -243,7 +243,7 @@ void Jogos(){
             rodadas++;
         }
         else{
-            cout << "\nReposta errada :(\n";
+            cout << "\nResposta errada :(\n";
             rodadas++;
         }
     }while(rodadas != 5);
@@ -307,7 +307,7 @@ void Animes(){
             rodadas++;
         }
         else{
-            cout << "\nReposta errada :(\n";
+            cout << "\nResposta errada :(\n";
             rodadas++;
         }
     }while(rodadas != 5);
